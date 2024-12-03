@@ -31,13 +31,13 @@
 
 ## Screenshots
 
-![Home Screen 1](screenshots/home_screen-all-places.png)
-![Home Screen 1](screenshots/home_screen-categorized-places.png)
-![Home Screen 1](screenshots/home_screen-categorized-places-2.png)
-![Add Place Screen 1](screenshots/add-place-screen.png)
-![Add Place Screen 2](screenshots/add-place-screen-2.png)
-![Place Details](screenshots/details-screen.png)
-![Map Screen](screenshots/map-screen.png)
+<img src="screenshots/home-screen-all-places.png" alt="Home Screen 1" width="300"/>
+<img src="screenshots/home-screen-categorized-places.png" alt="Home Screen 2" width="300"/>
+<img src="screenshots/home-screen-categorized-places-2.png" alt="Home Screen 3" width="300"/>
+<img src="screenshots/add-place-screen.png" alt="Add Place Screen 1" width="300"/>
+<img src="screenshots/add-place-screen-2.png" alt="Add Place Screen 2" width="300"/>
+<img src="screenshots/details-screen.png" alt="Place Details" width="300"/>
+<img src="screenshots/map-screen.png" alt="Map Screen" width="300"/>
 
 ---
 
