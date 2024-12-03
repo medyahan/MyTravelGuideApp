@@ -26,6 +26,18 @@
 - **UIMenu & UIAction**: For category selection via pop-up buttons.
 - **MKMapView**: For map display and user interaction.
 - **UISegmentedControl**: For filtering and categorization.
+  
+---
+
+## Screenshots
+
+![Home Screen 1](screenshots/home_screen-all-places.png)
+![Home Screen 1](screenshots/home_screen-categorized-places.png)
+![Home Screen 1](screenshots/home_screen-categorized-places-2.png)
+![Add Place Screen 1](screenshots/add-place-screen.png)
+![Add Place Screen 2](screenshots/add-place-screen-2.png)
+![Place Details](screenshots/details-screen.png)
+![Map Screen](screenshots/map-screen.png)
 
 ---
 
